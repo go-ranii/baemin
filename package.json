@@ -9,12 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
     "next": "12.1.5",
+    "pageable": "^0.6.8",
+    "prettier": "^2.6.2",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "react-full-page": "^0.1.12"
   },
   "devDependencies": {
+    "@types/node": "^17.0.26",
+    "@types/react": "^18.0.6",
     "eslint": "8.14.0",
-    "eslint-config-next": "12.1.5"
+    "eslint-config-next": "12.1.5",
+    "typescript": "^4.6.3"
   }
 }
